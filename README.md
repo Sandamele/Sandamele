@@ -21,7 +21,7 @@ A platform that helps small-scale farmers connect with local buyers. Built with 
 
 ## 🧰 Tech I Use Often
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,react,reactnative,nextjs,nodejs,express,postgres,mysql,prisma,tailwind,bootstrap,aws,docker,bash,postman,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,react,nextjs,nodejs,express,postgres,mysql,prisma,tailwind,bootstrap,aws,docker,bash,postman,github&perline=8)](https://skillicons.dev)
 
 ---
 
