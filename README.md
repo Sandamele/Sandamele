@@ -5,7 +5,7 @@
 🛠️ [**Local Grower Exchange**](https://github.com/Sandamele/LocalGrowExchange)  
 A platform that helps small-scale farmers connect with local buyers. Built with PERN Stack.
 
-🌩️ Learning to deploy, secure, and manage apps in the cloud (AWS mostly).
+- 🌱 Learning more about **cloud engineering** and scalable system design. 
 
 🧠 Always improving — one commit at a time.
 
